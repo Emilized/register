@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "Emilized",
+    "email": "YOUR_EMAIL_HERE"
+  },
+  "records": {
+    "CNAME": "vantus-web.vercel.app"
+  }
+}
